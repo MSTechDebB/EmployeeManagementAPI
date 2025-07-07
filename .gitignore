@@ -1,0 +1,26 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio folders
+.vs/
+*.suo
+*.user
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore logs
+*.log
+
+# Ignore NuGet packages
+*.nupkg
+
+# Ignore system files
+*.DS_Store
+Thumbs.db
+
+# Optional: ignore SQLite or local DB
+*.sqlite
+*.db
